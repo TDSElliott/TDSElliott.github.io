@@ -22,10 +22,10 @@ title: Tyler Elliott | Learning About ML, Finance, and Entrepreneurship
 email: tyler.elliott@queensu.ca
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a young Canadian exploring tech and opportunities to change the world.
-	Machine learning and artificial intelligence fascinate me and as I study
-	I look for real world applications in diverse fields such as healthcare or national defence. 
-	This ties into my passion for finance, wealth creation, and
-	tech startups that propel our society forward.
+  Machine learning and artificial intelligence fascinate me and as I study
+  I look for real world applications in diverse fields such as healthcare or national defence. 
+  This ties into my passion for finance, wealth creation, and
+  tech startups that propel our society forward.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TDSElliott
